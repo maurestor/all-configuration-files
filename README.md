@@ -5,13 +5,12 @@ _Algunas configuraciones de aplicaciones indispensables._
 
 ## Lista de **archivos** de configuración
 
-
 * vimrc (para vim 8.2)
 
 * templaterc (GIMP 2.10)
 
 
-## templaterc para GIMP(2.10)
+### _templaterc para GIMP(2.10)_
 
 Agregadas las plantillas imagen para Wordpress mas generales de un tema + los templates estandar de GIMP.
 
