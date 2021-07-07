@@ -28,7 +28,7 @@ Información tomada de [WordPress Image Sizes: The Must-Read Guide [2020 Update]
   * Logo image size (200 x 100 pixels)
   * Thumbnail image size (150 x 150 pixels)
 
-[<img src="https://cdn-babnh.nitrocdn.com/yTCeykVJyIHAxPkMUOhbcsQPyphGzkvj/assets/static/optimized/rev-d356a7b/wp-content/uploads/2020/05/Best-wordpress-image-sizes-infographic-1024x819.png">]
+<img src="https://cdn-babnh.nitrocdn.com/yTCeykVJyIHAxPkMUOhbcsQPyphGzkvj/assets/static/optimized/rev-d356a7b/wp-content/uploads/2020/05/Best-wordpress-image-sizes-infographic-1024x819.png">
 
 Y algunas medidas extras de pantalla en "relación de aspecto" a (4:3).
 
